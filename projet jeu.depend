@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733513348 source:c:\users\azizh\desktop\tp langage c\projet jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<time.h>
+
